@@ -59,7 +59,7 @@ if choice == "yes":
                 if choice5 == "capture":
                     print("You captured it and brought it back to the headquarters, objective complete!")
                 else:
-                    print("You stabbed the xenos! Mission Failed.")
+                    print("You killed the xenos! Mission Failed.")
             else:
                 print("You didn't open any door. The xenos escaped.")
         else:
