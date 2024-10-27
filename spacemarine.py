@@ -45,7 +45,7 @@ if choice == "yes":
         choice3 = input('You walked and saw footprints of the termagant, do you want to continue walking?'
                         ' Type "yes" or "no".\n').lower()
         if choice3 == "yes":
-            choice4 = input("You found three two doors. "
+            choice4 = input("You found three doors. "
                             "One on the left. "
                             "One in the middle. "
                             "and one one the right. "
